@@ -1,0 +1,6 @@
+FLASK==1.1.2
+db
+requests
+flask
+mysql-connector-python
+mysql
